@@ -112,8 +112,6 @@ PostgreSQL project in Jupyter notebook for analyzing international debt statisti
 ------------
 
 # Tableau
-+ [My Tableau Public Profile](https://public.tableau.com/profile/phonethiriyadana#!/)
-+ [Tableau Badges](https://www.youracclaim.com/users/phone-thiri-yadana/badges)
 + [x] Data Science with Tableau
 + [x] Analytics Best Practices
 + [x] Dashboard Design: Visual Best Practices
@@ -122,9 +120,7 @@ PostgreSQL project in Jupyter notebook for analyzing international debt statisti
 + [x] Desktop II: Intermediate
 + [x] Desktop I: Fundamentals
 + [x] Getting Started with Tableau Desktop
-+ [x] [Tableau_2020_A-Z_Hands-On](https://github.com/ptyadana/Tableau_2020_A-Z_Hands-On)
-+ [x] [ SQL - MySQL for Data Analytics and Business Intelligence](https://github.com/ptyadana/MySQL-Tableau-for-Data-Analytics-and-Business-Intelligence)
-+ [x] [Introduction to Tableau by 365 Data Science](https://github.com/ptyadana/Tableau-Audiobooks-Sales-Analysis)
+
 
 
 # SQL
@@ -178,7 +174,3 @@ To skill up my SQL related skills in specific areas and topics:
 - [x] [Apache PySpark by Example](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Spark%20-%20Apache%20PySpark%20by%20Example)
 - [x] [Apache Spark Deep Learning Essential Training](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Spark%20-%20Apache%20Spark%20Deep%20Learning%20Essential%20Training)
 
-
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
