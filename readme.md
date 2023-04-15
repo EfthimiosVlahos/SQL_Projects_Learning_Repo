@@ -43,29 +43,6 @@ MySQL data analysis project in helping Film Rental Store to
 + etc.
 
 
-## [Company Employees - SQL & Tableau Visualization Project](https://github.com/ptyadana/MySQL-Tableau-for-Data-Analytics-and-Business-Intelligence)
-MySQL & Tableau integration project for analyzing employee data and visualizing the findings across the departments for management including
-+ What is breakdown between the male and female employees working in the company each year, starting from 1990?
-+ What is the number of male managers to the number of female managers from different departments for each year, starting from 1990?
-+ What is the average salary of female versus male employees in the entire company until year 2002? Need to filter out by departments.
-+ etc.
-
-
-## [Parch & Posey - Data Analysis Project](https://github.com/ptyadana/SQL-for-Data-Analysis-Parch-and-Posey)
-PostgreSQL project for helping fictional company called Parch & Posey for 
-+ managing the Orders, 
-+ finding out the relationship with different Accounts
-+ monitoring the performance of Sales Reps
-+ etc.
-
-
-## [Digital Music Store - Data Analysis Project](https://github.com/ptyadana/Data-Analysis-for-Digital-Music-Store)
-PostgreSQL Data Analysis project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
-+ countries with most invoices
-+ city with best customers
-+ finding out who the best customer is
-+ etc.
-
 
 ## [Restaurant & Library - Information & Patrons Project](SQL%20Code%20Challenges%20-%20Lynda)
 SQLite project for 
@@ -167,10 +144,4 @@ To skill up my SQL related skills in specific areas and topics:
 - [ ] [Database Clinics - MySQL](Database%20Clinics%20-%20MySQL)
 
 
-# Apache Spark & PySpark
-- [x] [Intro to Spark SQL and DataFrames](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Spark%20-%20Spark%20SQL%20and%20Data%20Frames)
-- [x] [Apache Spark Essential Training](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Spark%20-%20Apache%20Spark%20Essential%20Training)
-- [ ] Spark for Machine Learning & AI
-- [x] [Apache PySpark by Example](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Spark%20-%20Apache%20PySpark%20by%20Example)
-- [x] [Apache Spark Deep Learning Essential Training](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Spark%20-%20Apache%20Spark%20Deep%20Learning%20Essential%20Training)
 
